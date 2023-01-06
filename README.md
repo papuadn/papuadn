@@ -1,11 +1,11 @@
-## Hi there, I'm Robert - aka papuadn 🙃
+## Hi there, I'm Robert
 
 I'm a Melbourne based creative with a portfolio of work that ranges from digital design and development, to print material and publishing. 
 
 I'm also a Husband, Father, and Developer:
 
 - 👨‍💼 Working as a Software Engineer at [MYOB][myob]
-- 🌱 Learning C# and Microsoft Azure
+- 🌱 Learning mobile app development
 - 🤝 Looking to collaborate with other people
 - 🛠️ Keen to design and build
 - 🥅 Wanting to contribute more to open source projects
