@@ -91,7 +91,8 @@ Let's connect and create something amazing together! 🚀
 
 ### Playing on Spotify 🎧 
 
-![Spotify](https://novatorem-papuadn.vercel.app/api/spotify)
+[![Spotify](https://spotify-now-playing-papuadn.vercel.app/spotify)](https://open.spotify.com/user/rjep01)
+
 
 ---
 
