@@ -94,7 +94,19 @@ Let's connect and create something amazing together! 🚀
 
 ![Spotify](https://novatorem-papuadn.vercel.app/api/spotify)
 
-![papuadn GitHub stats](https://github-readme-stats.vercel.app/api?username=papuadn&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&custom_title=Github%20Stats)
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+<img align="left" alt="papuadn's GitHub Stats" src="https://github-readme-stats-papuadn.vercel.app/api?username=papuadn&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&custom_title=papuadn" />
+</details>
 
 
 [myob]: https://www.myob.com/
