@@ -11,7 +11,7 @@ A Melbourne-based creative with a portfolio of work that ranges from digital des
 
 Let's connect and create something amazing together! 🚀
 
-### Connect with me:
+### Connect with me
 
 <a href="https://www.linkedin.com/in/papuadn/" target="_blank">
   <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
@@ -19,7 +19,7 @@ Let's connect and create something amazing together! 🚀
 
 <br />
 
-### Frameworks, languages, tools and services:
+### Frameworks, languages, tools and services
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="26px" style="padding-right: 10px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="26px" style="padding-right: 10px;"/>
@@ -85,27 +85,28 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="26px" style="padding-right: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" width="26px" style="padding-right: 10px;" />
 
-<br /><br />
-<br />
-
+<br /><br /><br />
+  
 ---
 
-## Playing on Spotify 🎧 
+### Playing on Spotify 🎧 
 
 ![Spotify](https://novatorem-papuadn.vercel.app/api/spotify)
 
+---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub activity</summary>
   
 <!--START_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  
+  <summary>:zap: GitHub stats</summary>
+
 <img align="left" alt="papuadn's GitHub Stats" src="https://github-readme-stats-papuadn.vercel.app/api?username=papuadn&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&custom_title=papuadn" />
+
 </details>
 
 
