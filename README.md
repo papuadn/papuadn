@@ -91,8 +91,17 @@ Let's connect and create something amazing together! 🚀
 
 ### Playing on Spotify 🎧 
 
-[![Spotify](https://spotify-now-playing-papuadn.vercel.app/spotify)](https://open.spotify.com/user/rjep01)
-
+<picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://spotify-github-readme-papuadn.vercel.app/api?theme=light&scan=true&rainbow=true"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://spotify-github-readme-papuadn.vercel.app/api?theme=dark&scan=true&rainbow=true"
+    />
+    <img alt="Spotify">
+</picture>
 
 ---
 
