@@ -2,7 +2,7 @@
 
 A Melbourne-based creative with a portfolio of work that ranges from digital design and development, to print material and publishing. 
 
-- 👨‍💼 Currently, I'm a Senior Software Engineer at [MYOB][myob].
+- 👨‍💼 Currently, I'm a Senior Software Engineer at [Mable][mable].
 - 🌱 I'm diving into the world of mobile app development to expand my skill set.
 - 🤝 Always open to exciting collaborations and connecting with fellow enthusiasts.
 - 🛠️ I thrive on designing and building meaningful projects that make an impact.
@@ -21,7 +21,7 @@ Let's connect and create something amazing together! 🚀
 
 ### Frameworks, languages, tools and services
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="AfterEffects" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="26px" style="padding: 0 10px 10px 0;" />
@@ -45,7 +45,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" alt="hugo" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="26px" style="padding: 0 10px 10px 0;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" alt="jasmine" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="26px" style="padding: 0 10px 10px 0;" />
@@ -122,4 +122,4 @@ Let's connect and create something amazing together! 🚀
 </details>
 
 
-[myob]: https://www.myob.com/
+[mable]: https://www.mable.com.au/
