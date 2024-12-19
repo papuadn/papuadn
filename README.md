@@ -48,6 +48,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" alt="hugo" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original.svg" alt="jaeger" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" alt="jasmine" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="26px" style="padding: 0 10px 10px 0;" />
@@ -68,16 +69,25 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" alt="nuget" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="podman" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" alt="postcss" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="26px" style="padding: 0 10px 10px 0;" />
