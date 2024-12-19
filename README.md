@@ -30,10 +30,12 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" alt="ember" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="26px" style="padding: 0 10px 10px 0;" />
@@ -42,6 +44,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="homebrew" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" alt="hugo" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="26px" style="padding: 0 10px 10px 0;" />
