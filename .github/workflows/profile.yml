@@ -1,0 +1,76 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Spotify card
+    - cron: "17 20 * * *" # Everything, daily ≈ 7am Melbourne
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["scripts/**", ".github/workflows/profile.yml"]
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # The half-hourly run only refreshes Spotify; everything else runs daily or on demand.
+      ONLY: ${{ github.event.schedule == '*/30 * * * *' && 'spotify' || '' }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Test
+        if: env.ONLY == ''
+        run: npm test
+
+      - name: Restore previous cards
+        # If a source fails, its last good card stays published.
+        run: |
+          mkdir -p dist
+          if git fetch --quiet --depth=1 origin output; then
+            git archive FETCH_HEAD | tar -x -C dist
+          fi
+
+      - name: Generate
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          if [ -n "$ONLY" ]; then
+            node scripts/generate.mjs --out dist --only "$ONLY"
+          else
+            node scripts/generate.mjs --out dist --readme README.md
+          fi
+
+      - name: Publish cards to the output branch
+        # A single force-pushed commit, so half-hourly updates don't pile up in master's history.
+        working-directory: dist
+        run: |
+          git init --quiet --initial-branch=output
+          git add --all
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit --quiet -m "chore: update profile cards"
+          git push --force --quiet "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
+
+      - name: Commit README activity
+        if: env.ONLY == ''
+        run: |
+          if git diff --quiet README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet -m "chore: update recent activity" README.md
+          git push --quiet

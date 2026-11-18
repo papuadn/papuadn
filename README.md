@@ -25,7 +25,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="AfterEffects" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="26px" style="padding: 0 10px 10px 0;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="babel" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="26px" style="padding: 0 10px 10px 0;" />
@@ -58,7 +58,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="karma" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="less" width="26px" style="padding: 0 10px 10px 0;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material ui" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="26px" style="padding: 0 10px 10px 0;" />
@@ -75,7 +75,6 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="26px" style="padding: 0 10px 10px 0;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="26px" style="padding: 0 10px 10px 0;" />
@@ -93,7 +92,7 @@ Let's connect and create something amazing together! 🚀
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" alt="vagrant" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="26px"  style="padding-right:10px;" />
-<img align="left" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" alt="webpack" width="26px" style="padding: 0 10px 10px 0;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" alt="webpack" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="26px" style="padding: 0 10px 10px 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" width="26px" style="padding: 0 10px 10px 0;" />
@@ -102,37 +101,31 @@ Let's connect and create something amazing together! 🚀
   
 ---
 
-### Playing on Spotify 🎧 
+### 📊 This year on GitHub
 
 <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-github-readme-papuadn.vercel.app/api?theme=light&scan=true&rainbow=true"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-github-readme-papuadn.vercel.app/api?theme=dark&scan=true&rainbow=true"
-    />
-    <img alt="Spotify">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papuadn/papuadn/output/contributions-dark.svg" />
+  <img alt="papuadn's GitHub contributions over the last 12 months" src="https://raw.githubusercontent.com/papuadn/papuadn/output/contributions-light.svg" width="100%" />
 </picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papuadn/papuadn/output/languages-dark.svg" />
+  <img alt="papuadn's most used languages" src="https://raw.githubusercontent.com/papuadn/papuadn/output/languages-light.svg" width="100%" />
+</picture>
 
-<details>
-  <summary>:zap: GitHub activity</summary>
-  
+### 🎧 On Spotify
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papuadn/papuadn/output/spotify-dark.svg" />
+  <img alt="What papuadn is listening to on Spotify" src="https://raw.githubusercontent.com/papuadn/papuadn/output/spotify-light.svg" width="100%" />
+</picture>
+
+### ⚡ Recent activity
+
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32973](https://github.com/timburgan/timburgan/issues/32973) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+🔒 Mostly heads-down in private repos: **460** contributions to private projects in the last 30 days.
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub stats</summary>
-
-<img align="left" alt="papuadn's GitHub Stats" src="https://github-readme-stats-papuadn.vercel.app/api?username=papuadn&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&custom_title=papuadn" />
-
-</details>
-
+<sub>Cards are generated by [this repo's workflow](.github/workflows/profile.yml) and include private work.</sub>
 
 [mable]: https://www.mable.com.au/

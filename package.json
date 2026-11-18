@@ -1,0 +1,14 @@
+{
+  "name": "papuadn-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generates the cards on the papuadn GitHub profile README",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "generate": "node scripts/generate.mjs --out dist",
+    "spotify:auth": "node scripts/spotify-auth.mjs",
+    "test": "node --test 'scripts/*.test.mjs'"
+  }
+}
