@@ -123,3 +123,8 @@ export function formatDuration(ms) {
   const totalSeconds = Math.max(0, Math.floor(ms / 1000));
   return `${Math.floor(totalSeconds / 60)}:${String(totalSeconds % 60).padStart(2, '0')}`;
 }
+
+/** Repos pushed to in the last `days` days. */
+export function countActiveProjects(repos, { now = Date.now(), days = 30 } = {}) {
+  return repos.filter((r) => now - new Date(r.pushedAt).getTime() <= days * DAY_MS).length;
+}

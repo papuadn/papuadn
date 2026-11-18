@@ -296,3 +296,80 @@ ${status}
 ${right}`,
   });
 }
+
+// ---------------------------------------------------------------------------
+// Hero: who I am, a little terminal with live numbers, and a rotating status
+// ---------------------------------------------------------------------------
+
+const MONO = `ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace`;
+
+export function heroCard({ name, role, location, login, contributions, activeProjects, taglines }, theme) {
+  const t = THEMES[theme];
+  const height = 252;
+  const tx = 420;
+  const tw = WIDTH - PAD - tx;
+  const term = { bg: '#161b22', bar: '#21262d', text: '#e6edf3', dim: '#8b949e', prompt: '#3fb950', border: theme === 'dark' ? '#30363d' : '#161b22' };
+
+  const lines = [
+    ['cmd', 'git log --since=1.year | wc -l'],
+    ['out', `${contributions.toLocaleString('en-AU')}  # private repos included`],
+    ['cmd', 'ls ~/side-projects | wc -l'],
+    ['out', `${activeProjects}  # it's fine. everything's fine.`],
+    ['cmd', 'guitar --skill'],
+    ['skill', 'enthusiastic'],
+  ];
+  const lineSvg = lines
+    .map(([kind, text], i) => {
+      const y = 24 + 28 + 22 + i * 18;
+      const delay = `style="animation-delay:${400 + i * 350}ms"`;
+      if (kind === 'cmd') {
+        return `<text x="${tx + 16}" y="${y}" class="mono fade" ${delay}><tspan fill="${term.prompt}">$</tspan><tspan fill="${term.text}"> ${esc(text)}</tspan></text>`;
+      }
+      if (kind === 'skill') {
+        const blocks = Array.from({ length: 10 }, (_, b) => `<rect x="${tx + 16 + b * 9}" y="${y - 9}" width="7" height="10" rx="1" fill="${b < 3 ? term.prompt : term.bar}"/>`).join('');
+        return `<g class="fade" ${delay}>${blocks}<text x="${tx + 16 + 98}" y="${y}" class="mono term-dim">${esc(text)}</text></g>`;
+      }
+      return `<text x="${tx + 16}" y="${y}" class="mono fade term-dim" ${delay}>${esc(text)}</text>`;
+    })
+    .join('\n');
+  const cursorY = 24 + 28 + 22 + lines.length * 18;
+
+  const cycle = taglines.length * 3.5;
+  const step = 100 / taglines.length;
+  const taglineSvg = taglines
+    .map((line, i) => `<text x="${PAD + 92}" y="230" font-size="15" class="tagline${i === 0 ? ' first' : ''}" style="animation-delay:${i * 3.5}s">${esc(fit(line, WIDTH - PAD * 2 - 92, 15))}</text>`)
+    .join('\n');
+
+  return frame({
+    height,
+    theme,
+    title: `${name} (${login})`,
+    desc: `${role}, ${location}. ${contributions} contributions in the last year.`,
+    style: `.mono { font-family: ${MONO}; font-size: 12px; }
+  .mono tspan, .mono { white-space: pre; }
+  text.term-dim { fill: ${term.dim}; }
+  .tagline { opacity: 0; animation: cycle ${cycle}s infinite; }
+  @keyframes cycle { 0% { opacity: 0; transform: translateY(6px); } ${(step * 0.12).toFixed(2)}% { opacity: 1; transform: none; } ${(step * 0.88).toFixed(2)}% { opacity: 1; transform: none; } ${step.toFixed(2)}% { opacity: 0; transform: translateY(-6px); } 100% { opacity: 0; } }
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .tagline.first { opacity: 1; } }`,
+    body: `<g class="fade">
+  <text x="${PAD}" y="62" class="label">G'DAY, I'M</text>
+  <text x="${PAD}" y="106" font-size="40" font-weight="800" letter-spacing="-0.02em">${esc(name)}</text>
+  <text x="${PAD}" y="136" font-size="16" font-weight="600">${esc(role)}</text>
+  <text x="${PAD}" y="160" font-size="13" class="muted">${esc(location)} · @${esc(login)}</text>
+</g>
+<g class="fade" style="animation-delay:200ms">
+  <rect x="${tx}" y="${PAD}" width="${tw}" height="${cursorY - PAD + 14}" rx="10" fill="${term.bg}" stroke="${term.border}"/>
+  <path d="M${tx + 10} ${PAD + 0.5} h${tw - 20} a10 10 0 0 1 10 10 v17.5 h-${tw} v-17.5 a10 10 0 0 1 10 -10 z" fill="${term.bar}"/>
+  <circle cx="${tx + 16}" cy="${PAD + 14}" r="5" fill="#ff5f57"/><circle cx="${tx + 32}" cy="${PAD + 14}" r="5" fill="#febc2e"/><circle cx="${tx + 48}" cy="${PAD + 14}" r="5" fill="#28c840"/>
+  <text x="${tx + tw / 2}" y="${PAD + 18}" class="mono term-dim" font-size="11" text-anchor="middle">~/papuadn — zsh</text>
+</g>
+${lineSvg}
+<text x="${tx + 16}" y="${cursorY}" class="mono fade" style="animation-delay:${400 + lines.length * 350}ms"><tspan fill="${term.prompt}">$</tspan></text>
+<rect x="${tx + 28}" y="${cursorY - 10}" width="7" height="13" fill="${term.text}" class="cursor"/>
+<line x1="${PAD}" y1="206" x2="${WIDTH - PAD}" y2="206" stroke="${t.border}" stroke-dasharray="2 4"/>
+<text x="${PAD}" y="229" class="label" style="fill:${t.spotify}">CURRENTLY ›</text>
+${taglineSvg}`,
+  });
+}

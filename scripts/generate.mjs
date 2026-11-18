@@ -14,9 +14,10 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseArgs } from 'node:util';
 import { renderActivity, replaceSection } from './activity.mjs';
-import { contributionsCard, languagesCard, spotifyCard } from './cards.mjs';
+import { contributionsCard, heroCard, languagesCard, spotifyCard } from './cards.mjs';
 import { fetchContributionWeeks, fetchPublicEvents, fetchRecentTotals, fetchRepoLanguages, fetchSpotify } from './sources.mjs';
-import { aggregateLanguages } from './stats.mjs';
+import { heroProfile } from './profile.mjs';
+import { aggregateLanguages, countActiveProjects } from './stats.mjs';
 
 const { values: args } = parseArgs({
   options: {
@@ -59,15 +60,28 @@ if (wants('github')) {
   if (!token) throw new Error('Set GITHUB_TOKEN (or STATS_TOKEN) to build the GitHub cards');
   if (!env.STATS_TOKEN && env.GITHUB_ACTIONS) warn('STATS_TOKEN not set: the languages card can only see public repos');
 
+  let weeks;
+  let repos;
+
   await step('Contributions card', async () => {
-    const weeks = await fetchContributionWeeks(token, login);
+    weeks = await fetchContributionWeeks(token, login);
     await writeThemed('contributions', (theme) => contributionsCard({ login, weeks }, theme));
   });
 
   await step('Languages card', async () => {
-    const summary = aggregateLanguages(await fetchRepoLanguages(token, login));
+    repos = await fetchRepoLanguages(token, login);
+    const summary = aggregateLanguages(repos);
     if (summary.languages.length === 0) throw new Error('no language data');
     await writeThemed('languages', (theme) => languagesCard(summary, theme));
+  });
+
+  await step('Hero card', async () => {
+    if (!weeks || !repos) throw new Error('needs the contributions and repo data');
+    const profile = heroProfile({
+      contributions: weeks.flat().reduce((sum, d) => sum + d.count, 0),
+      activeProjects: countActiveProjects(repos),
+    });
+    await writeThemed('hero', (theme) => heroCard({ login, ...profile }, theme));
   });
 
   if (args.readme) {
