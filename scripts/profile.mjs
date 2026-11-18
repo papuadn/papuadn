@@ -2,7 +2,7 @@
 export function heroProfile({ contributions, activeProjects }) {
   return {
     name: 'Robert Price',
-    role: 'Senior Software Engineer at Mable',
+    role: 'Senior Software Engineer at Attain Healthtech',
     location: 'Melbourne, Australia',
     contributions,
     activeProjects,
