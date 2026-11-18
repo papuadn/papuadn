@@ -49,8 +49,9 @@ I started out in design and print, wandered into front-end development and never
 
 ## 🛠️ Tools of the trade
 
+###### LANGUAGES
+
 <p>
-  <sub><b>LANGUAGES</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="36" height="36" />
@@ -64,8 +65,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
 </p>
 
+###### FRONT END & MOBILE
+
 <p>
-  <sub><b>FRONT END & MOBILE</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" />
@@ -77,8 +79,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="36" height="36" />
 </p>
 
+###### BACK END & DATA
+
 <p>
-  <sub><b>BACK END & DATA</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/express/express-original.svg" alt="Express" title="Express" width="36" height="36" /></picture>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="36" height="36" />
@@ -89,8 +92,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/hugo/hugo-original.svg" alt="Hugo" title="Hugo" width="36" height="36" />
 </p>
 
+###### TESTING & QUALITY
+
 <p>
-  <sub><b>TESTING & QUALITY</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="36" height="36" />
@@ -100,8 +104,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="36" height="36" />
 </p>
 
+###### CLOUD & OPS
+
 <p>
-  <sub><b>CLOUD & OPS</b></sub><br />
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="36" height="36" /></picture>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
@@ -117,8 +122,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
 </p>
 
+###### TOOLING
+
 <p>
-  <sub><b>TOOLING</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36" /></picture>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/npm/npm-original.svg" alt="npm" title="npm" width="36" height="36" />
@@ -130,8 +136,9 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="36" height="36" />
 </p>
 
+###### DESIGN & CREATIVE
+
 <p>
-  <sub><b>DESIGN & CREATIVE</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/illustrator/illustrator-original.svg" alt="Illustrator" title="Illustrator" width="36" height="36" />
@@ -139,15 +146,17 @@ I started out in design and print, wandered into front-end development and never
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/unity-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" /></picture>
 </p>
 
+###### COLLABORATION
+
 <p>
-  <sub><b>COLLABORATION</b></sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="36" height="36" />
 </p>
 
+###### 🦖 THE FOSSIL RECORD · tools I've shipped real things with and will defend at the pub
+
 <p>
-  <sub><b>🦖 THE FOSSIL RECORD</b> · tools I've shipped real things with and will defend at the pub</sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/ember/ember-original.svg" alt="Ember" title="Ember" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />
