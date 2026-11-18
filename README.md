@@ -52,123 +52,123 @@ I started out in design and print, wandered into front-end development and never
 ###### LANGUAGES
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
+  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+  <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="36" height="36" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" /></a>
+  <a href="https://www.php.net"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
+  <a href="https://www.lua.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+  <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
+  <a href="https://graphql.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a>
 </p>
 
 ###### FRONT END & MOBILE
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postcss/postcss-original.svg" alt="PostCSS" title="PostCSS" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="36" height="36" />
+  <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" /></a>
+  <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="36" height="36" /></a>
+  <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>
+  <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
+  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a>
+  <a href="https://mui.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
+  <a href="https://postcss.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postcss/postcss-original.svg" alt="PostCSS" title="PostCSS" width="36" height="36" /></a>
+  <a href="https://storybook.js.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="36" height="36" /></a>
+  <a href="https://www.electronjs.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="36" height="36" /></a>
 </p>
 
 ###### BACK END & DATA
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/express/express-original.svg" alt="Express" title="Express" width="36" height="36" /></picture>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wordpress-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="36" height="36" /></picture>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/hugo/hugo-original.svg" alt="Hugo" title="Hugo" width="36" height="36" />
+  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" /></a>
+  <a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/express/express-original.svg" alt="Express" title="Express" width="36" height="36" /></picture></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
+  <a href="https://wordpress.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wordpress-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="36" height="36" /></picture></a>
+  <a href="https://gohugo.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/hugo/hugo-original.svg" alt="Hugo" title="Hugo" width="36" height="36" /></a>
 </p>
 
 ###### TESTING & QUALITY
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mocha/mocha-original.svg" alt="Mocha" title="Mocha" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jasmine/jasmine-original.svg" alt="Jasmine" title="Jasmine" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="36" height="36" />
+  <a href="https://jestjs.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="36" height="36" /></a>
+  <a href="https://www.cypress.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="36" height="36" /></a>
+  <a href="https://www.selenium.dev"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="36" height="36" /></a>
+  <a href="https://mochajs.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mocha/mocha-original.svg" alt="Mocha" title="Mocha" width="36" height="36" /></a>
+  <a href="https://jasmine.github.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jasmine/jasmine-original.svg" alt="Jasmine" title="Jasmine" width="36" height="36" /></a>
+  <a href="https://eslint.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="36" height="36" /></a>
+  <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="36" height="36" /></a>
 </p>
 
 ###### CLOUD & OPS
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="36" height="36" /></picture>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/podman/podman-original.svg" alt="Podman" title="Podman" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jaegertracing/jaegertracing-original.svg" alt="Jaeger" title="Jaeger" width="36" height="36" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/splunk-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" title="Splunk" width="36" height="36" /></picture>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
+  <a href="https://aws.amazon.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="36" height="36" /></picture></a>
+  <a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="36" height="36" /></a>
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <a href="https://podman.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/podman/podman-original.svg" alt="Podman" title="Podman" width="36" height="36" /></a>
+  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+  <a href="https://www.terraform.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="36" height="36" /></a>
+  <a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="36" height="36" /></a>
+  <a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="36" height="36" /></a>
+  <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36" /></a>
+  <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36" /></a>
+  <a href="https://www.jaegertracing.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jaegertracing/jaegertracing-original.svg" alt="Jaeger" title="Jaeger" width="36" height="36" /></a>
+  <a href="https://www.splunk.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/splunk-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" title="Splunk" width="36" height="36" /></picture></a>
+  <a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
 </p>
 
 ###### TOOLING
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36" /></picture>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/npm/npm-original.svg" alt="npm" title="npm" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/homebrew/homebrew-original.svg" alt="Homebrew" title="Homebrew" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nuget/nuget-original.svg" alt="NuGet" title="NuGet" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="36" height="36" />
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" /></a>
+  <a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36" /></picture></a>
+  <a href="https://www.npmjs.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/npm/npm-original.svg" alt="npm" title="npm" width="36" height="36" /></a>
+  <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a>
+  <a href="https://brew.sh"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/homebrew/homebrew-original.svg" alt="Homebrew" title="Homebrew" width="36" height="36" /></a>
+  <a href="https://www.nuget.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nuget/nuget-original.svg" alt="NuGet" title="NuGet" width="36" height="36" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+  <a href="https://www.postman.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="36" height="36" /></a>
+  <a href="https://swagger.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="36" height="36" /></a>
 </p>
 
 ###### DESIGN & CREATIVE
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/illustrator/illustrator-original.svg" alt="Illustrator" title="Illustrator" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/aftereffects/aftereffects-original.svg" alt="After Effects" title="After Effects" width="36" height="36" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/unity-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" /></picture>
+  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/illustrator/illustrator-original.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/aftereffects/aftereffects-original.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>
+  <a href="https://unity.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/unity-dark.svg" /><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" /></picture></a>
 </p>
 
 ###### COLLABORATION
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="36" height="36" />
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="36" height="36" /></a>
+  <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="36" height="36" /></a>
+  <a href="https://slack.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="36" height="36" /></a>
 </p>
 
 ###### 🦖 THE FOSSIL RECORD · tools I've shipped real things with and will defend at the pub
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/ember/ember-original.svg" alt="Ember" title="Ember" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/less/less-plain-wordmark.svg" alt="Less" title="Less" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/babel/babel-original.svg" alt="Babel" title="Babel" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/karma/karma-original.svg" alt="Karma" title="Karma" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vagrant/vagrant-original.svg" alt="Vagrant" title="Vagrant" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sketch/sketch-original.svg" alt="Sketch" title="Sketch" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/xd/xd-original.svg" alt="Adobe XD" title="Adobe XD" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="36" height="36" />
+  <a href="https://jquery.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="36" height="36" /></a>
+  <a href="https://emberjs.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/ember/ember-original.svg" alt="Ember" title="Ember" width="36" height="36" /></a>
+  <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+  <a href="https://lesscss.org"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/less/less-plain-wordmark.svg" alt="Less" title="Less" width="36" height="36" /></a>
+  <a href="https://gulpjs.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" width="36" height="36" /></a>
+  <a href="https://babeljs.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/babel/babel-original.svg" alt="Babel" title="Babel" width="36" height="36" /></a>
+  <a href="https://yarnpkg.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn" width="36" height="36" /></a>
+  <a href="https://karma-runner.github.io"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/karma/karma-original.svg" alt="Karma" title="Karma" width="36" height="36" /></a>
+  <a href="https://developer.hashicorp.com/vagrant"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vagrant/vagrant-original.svg" alt="Vagrant" title="Vagrant" width="36" height="36" /></a>
+  <a href="https://www.sketch.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sketch/sketch-original.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a>
+  <a href="https://helpx.adobe.com/support/xd.html"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/xd/xd-original.svg" alt="Adobe XD" title="Adobe XD" width="36" height="36" /></a>
+  <a href="https://trello.com"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="36" height="36" /></a>
 </p>
 
 
