@@ -146,9 +146,8 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="36" height="36" />
 </p>
 
-<details>
-  <summary><b>🦖 The fossil record</b>: tools I've shipped real things with and will defend at the pub</summary>
-  <br />
+<p>
+  <sub><b>🦖 THE FOSSIL RECORD</b> · tools I've shipped real things with and will defend at the pub</sub><br />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/ember/ember-original.svg" alt="Ember" title="Ember" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />
@@ -161,7 +160,7 @@ I started out in design and print, wandered into front-end development and never
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/sketch/sketch-original.svg" alt="Sketch" title="Sketch" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/xd/xd-original.svg" alt="Adobe XD" title="Adobe XD" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="36" height="36" />
-</details>
+</p>
 
 
 [attain]: https://attainhealthtech.com.au/
