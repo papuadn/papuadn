@@ -44,7 +44,9 @@ I started out in design and print, wandered into front-end development and never
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-🔒 Mostly heads-down in private repos: **464** contributions to private projects in the last 30 days.
+1. ⬆️ Pushed to [papuadn/papuadn](https://github.com/papuadn/papuadn)
+
+🔒 Plus **456** contributions to private projects in the last 30 days.
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tools of the trade
