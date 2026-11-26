@@ -303,7 +303,7 @@ ${right}`,
 
 const MONO = `ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace`;
 
-export function heroCard({ name, role, location, login, contributions, activeProjects, taglines }, theme) {
+export function heroCard({ name, roles, location, login, contributions, activeProjects, taglines }, theme) {
   const t = THEMES[theme];
   const height = 252;
   const tx = 420;
@@ -344,7 +344,7 @@ export function heroCard({ name, role, location, login, contributions, activePro
     height,
     theme,
     title: `${name} (${login})`,
-    desc: `${role}, ${location}. ${contributions} contributions in the last year.`,
+    desc: `${roles.join('. ')}. ${location}. ${contributions} contributions in the last year.`,
     style: `.mono { font-family: ${MONO}; font-size: 12px; }
   .mono tspan, .mono { white-space: pre; }
   text.term-dim { fill: ${term.dim}; }
@@ -356,8 +356,8 @@ export function heroCard({ name, role, location, login, contributions, activePro
     body: `<g class="fade">
   <text x="${PAD}" y="62" class="label">G'DAY, I'M</text>
   <text x="${PAD}" y="106" font-size="40" font-weight="800" letter-spacing="-0.02em">${esc(name)}</text>
-  <text x="${PAD}" y="136" font-size="16" font-weight="600">${esc(role)}</text>
-  <text x="${PAD}" y="160" font-size="13" class="muted">${esc(location)} · @${esc(login)}</text>
+${roles.map((role, i) => `  <text x="${PAD}" y="${134 + i * 22}" font-size="15" font-weight="600">${esc(fit(role, tx - PAD - 12, 15, true))}</text>`).join('\n')}
+  <text x="${PAD}" y="${158 + (roles.length - 1) * 22}" font-size="13" class="muted">${esc(location)} · @${esc(login)}</text>
 </g>
 <g class="fade" style="animation-delay:200ms">
   <rect x="${tx}" y="${PAD}" width="${tw}" height="${cursorY - PAD + 14}" rx="10" fill="${term.bg}" stroke="${term.border}"/>

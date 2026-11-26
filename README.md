@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papuadn/papuadn/output/hero-dark.svg" />
-  <img alt="Robert Price (papuadn): Senior Software Engineer at Attain Healthtech, Melbourne" src="https://raw.githubusercontent.com/papuadn/papuadn/output/hero-light.svg" width="100%" />
+  <img alt="Robert Price (papuadn): CEO of Sunset Bytes and Senior Software Engineer at Attain Healthtech, Melbourne" src="https://raw.githubusercontent.com/papuadn/papuadn/output/hero-light.svg" width="100%" />
 </picture>
 
 <p align="center">
@@ -14,7 +14,7 @@
 I started out in design and print, wandered into front-end development and never found the exit. These days I build software for a living and side projects for fun (and, occasionally, for regret).
 
 - 👨‍💻 **By day:** Senior Software Engineer at [Attain Healthtech][attain], the team behind [Mable][mable], [HomeMade][homemade] and [Leap in!][leapin], helping Australians find the care and support they need.
-- 📱 **By night:** building mobile apps with Flutter and Dart. Finishing them is a separate skill I'm still working on.
+- 🌅 **By night:** CEO of [Sunset Bytes][sunsetbytes], my side-hustle studio making cosy apps and games for iOS, Android and Roblox. The org chart is mostly me, wearing many hats.
 - 🎨 **Before all that:** digital design, print and publishing, so yes, I will notice your kerning.
 - 🏚️ **On weekends:** renovating my house, one YouTube tutorial at a time.
 - 🎸 **Also:** learning guitar. The neighbours have been very supportive (they have not).
@@ -178,3 +178,4 @@ I started out in design and print, wandered into front-end development and never
 [mable]: https://www.mable.com.au/
 [homemade]: https://homemadesupport.com.au/
 [leapin]: https://www.leapin.com.au/
+[sunsetbytes]: https://sunsetbytes.com.au/
