@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="182" viewBox="0 0 800 182" role="img" aria-labelledby="title desc">
+<title id="title">Most used languages</title>
+<desc id="desc">TypeScript 32.9%, Dart 28.1%, Luau 17.2%, JavaScript 16.9%, CSS 2.1%, HTML 0.9%, SCSS 0.6%, Python 0.5%, Other 0.7%</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  .label { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; fill: #9198a1; }
+  .muted { fill: #9198a1; }
+  .fade { animation: fade 0.6s ease-out both; }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  .grow { transform-box: fill-box; transform-origin: left; animation: grow 0.9s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="799" height="181" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="40" class="label">LANGUAGES · WEIGHTED ACROSS 21 REPOSITORIES</text>
+<clipPath id="bar"><rect x="24" y="58" width="752" height="10" rx="5"/></clipPath>
+<rect x="24" y="58" width="752" height="10" rx="5" fill="#21262d"/>
+<g clip-path="url(#bar)"><g class="grow"><rect x="24.0" y="58" width="247.3" height="10" fill="#3178c6" stroke="#0d1117" stroke-width="1.5"/><rect x="271.3" y="58" width="211.2" height="10" fill="#00B4AB" stroke="#0d1117" stroke-width="1.5"/><rect x="482.5" y="58" width="129.4" height="10" fill="#00A2FF" stroke="#0d1117" stroke-width="1.5"/><rect x="612.0" y="58" width="127.2" height="10" fill="#f1e05a" stroke="#0d1117" stroke-width="1.5"/><rect x="739.2" y="58" width="15.9" height="10" fill="#663399" stroke="#0d1117" stroke-width="1.5"/><rect x="755.1" y="58" width="7.1" height="10" fill="#e34c26" stroke="#0d1117" stroke-width="1.5"/><rect x="762.1" y="58" width="4.9" height="10" fill="#c6538c" stroke="#0d1117" stroke-width="1.5"/><rect x="767.0" y="58" width="3.5" height="10" fill="#3572A5" stroke="#0d1117" stroke-width="1.5"/><rect x="770.5" y="58" width="5.5" height="10" fill="#8b949e" stroke="#0d1117" stroke-width="1.5"/></g></g>
+<g class="fade" style="animation-delay:300ms">
+  <circle cx="29" cy="100" r="5" fill="#3178c6"/>
+  <text x="42" y="104" font-size="13" font-weight="600">TypeScript</text>
+  <text x="196" y="104" font-size="13" class="muted" text-anchor="end">33%</text>
+</g>
+<g class="fade" style="animation-delay:350ms">
+  <circle cx="217" cy="100" r="5" fill="#00B4AB"/>
+  <text x="230" y="104" font-size="13" font-weight="600">Dart</text>
+  <text x="384" y="104" font-size="13" class="muted" text-anchor="end">28%</text>
+</g>
+<g class="fade" style="animation-delay:400ms">
+  <circle cx="405" cy="100" r="5" fill="#00A2FF"/>
+  <text x="418" y="104" font-size="13" font-weight="600">Luau</text>
+  <text x="572" y="104" font-size="13" class="muted" text-anchor="end">17%</text>
+</g>
+<g class="fade" style="animation-delay:450ms">
+  <circle cx="593" cy="100" r="5" fill="#f1e05a"/>
+  <text x="606" y="104" font-size="13" font-weight="600">JavaScript</text>
+  <text x="760" y="104" font-size="13" class="muted" text-anchor="end">17%</text>
+</g>
+<g class="fade" style="animation-delay:500ms">
+  <circle cx="29" cy="128" r="5" fill="#663399"/>
+  <text x="42" y="132" font-size="13" font-weight="600">CSS</text>
+  <text x="196" y="132" font-size="13" class="muted" text-anchor="end">2.1%</text>
+</g>
+<g class="fade" style="animation-delay:550ms">
+  <circle cx="217" cy="128" r="5" fill="#e34c26"/>
+  <text x="230" y="132" font-size="13" font-weight="600">HTML</text>
+  <text x="384" y="132" font-size="13" class="muted" text-anchor="end">0.9%</text>
+</g>
+<g class="fade" style="animation-delay:600ms">
+  <circle cx="405" cy="128" r="5" fill="#c6538c"/>
+  <text x="418" y="132" font-size="13" font-weight="600">SCSS</text>
+  <text x="572" y="132" font-size="13" class="muted" text-anchor="end">0.6%</text>
+</g>
+<g class="fade" style="animation-delay:650ms">
+  <circle cx="593" cy="128" r="5" fill="#3572A5"/>
+  <text x="606" y="132" font-size="13" font-weight="600">Python</text>
+  <text x="760" y="132" font-size="13" class="muted" text-anchor="end">0.5%</text>
+</g>
+<g class="fade" style="animation-delay:700ms">
+  <circle cx="29" cy="156" r="5" fill="#8b949e"/>
+  <text x="42" y="160" font-size="13" font-weight="600">Other</text>
+  <text x="196" y="160" font-size="13" class="muted" text-anchor="end">0.7%</text>
+</g>
+</svg>
